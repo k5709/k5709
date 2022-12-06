@@ -1,7 +1,8 @@
 <div align='center'>
   <h2>Hi There...✌I'm Kristian Rosales!</h2>
 </div>
-<p align="center">🎇A passionate 19 year old developer taking on the full stack web development world.🎇</p><br/>
+<p align="center">🎇A passionate 19 year old developer taking on the full stack web development world.🎇</p>
+<p align="center">📙I am currently in the process of finishing my studies at Bloomtech Institute.📙</p>
 <div id="header" align="center">
   <h4>Welcome to my Github page!</h4>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -20,6 +21,7 @@ const Kristian😎= {
     location: "Chicago, Illinois",
     code: [JavaScript, HTML, CSS,],
     tools: [React, Axios, Yup, Cypress, JSX, Git,],
-    askMeAbout: ["webDev", "guitars", "tech", "musicProduction",
-      "computers", "gaming", "basically any sport (excluding hockey)" ],
+    askMeAbout: ["webDev", "guitars", "tech", "computers", "gaming", "basically any sport (excluding hockey)" ],
+    hobbies: ["musicProduction", "snowBoarding", "guitarist", "workingOut"]
+    }
 ```
