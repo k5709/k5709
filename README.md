@@ -20,7 +20,7 @@
 <div id='social-badges'>
   <h3>Social Links!</h3>
   <img src='https://img.shields.io/badge/-Kristian Rosales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kristian-rosales/)](https://www.linkedin.com/in/kristian-rosales/')>
-  <img src="https://img.shields.io/badge/slack-@oresoftware/npp-yellow.svg?logo=slack">](https://oresoftware.slack.com/messages/U03TG2N2N2G)
+  <img src="https://img.shields.io/badge/@Kristian Rosales-yellow.svg?logo=slack">
 </div>
 
 
