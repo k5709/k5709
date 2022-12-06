@@ -14,7 +14,7 @@
 <div id="contact-me" align='center'>
   <h3>Contact me!<h3>
   <img src='https://img.shields.io/badge/-r.kristian40@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:r.kristian40@gmail.com)](mailto:r.kristian40@gmail.com'></br>
-  <img src="https://dcbadge.vercel.app/api/shield/551265205590687759">
+  
 </div>
 
 <div id='social-badges' align="center">
