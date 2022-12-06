@@ -1,9 +1,9 @@
 <div align='center'>
   <h2>Hi There...✌I'm Kristian Rosales!</h2>
+  <img src='https://komarev.com/ghpvc/?username=k5709&color=green'>
 </div>
 
 <div id="header" align="center">
-  <img src='https://komarev.com/ghpvc/?username=k5709&color=green'>
   <h4>Welcome to my Github page!</h4>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>  
@@ -13,10 +13,12 @@
 
 <div id="contact-me" align='center'>
   <h3>Contact me!<h3>
-  <img src='https://img.shields.io/badge/-r.kristian40@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:r.kristian40@gmail.com)](mailto:r.kristian40@gmail.com'
+  <img src='https://img.shields.io/badge/-r.kristian40@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:r.kristian40@gmail.com)](mailto:r.kristian40@gmail.com'></br>
+  <img src="https://dcbadge.vercel.app/api/shield/551265205590687759">
 </div>
 
 <div id='social-badges' align="center">
+  <h3>Social Links!</h3>
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_kriss_rosales?style=social">
   <img src='https://img.shields.io/badge/-Kristian Rosales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kristian-rosales/)](https://www.linkedin.com/in/kristian-rosales/')
 </div>
