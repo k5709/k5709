@@ -1,12 +1,20 @@
 <div align='center'>
   <h2>Hi There...✌I'm Kristian Rosales!</h2>
 </div>
-<p align="center">🎇A passionate 19 year old developer taking on the full stack web development world.🎇</p>
-<p align="center">📙I am currently in the process of finishing my studies at Bloomtech Institute.📙</p>
+
 <div id="header" align="center">
+  <img src='https://komarev.com/ghpvc/?username=k5709&color=green'>
   <h4>Welcome to my Github page!</h4>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>  
+
+<p align="center">🎇A passionate 19 year old developer taking on the full stack web development world.🎇</p>
+<p align="center">📙I am currently in the process of finishing my studies at Bloomtech Institute.📙</p>
+
+<div id="contact-me" align='center'>
+  <h3>Contact me!<h3>
+  <img src='https://img.shields.io/badge/-r.kristian40@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:r.kristian40@gmail.com)](mailto:r.kristian40@gmail.com'
+</div>
 
 <div id='social-badges' align="center">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_kriss_rosales?style=social">
