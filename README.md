@@ -31,7 +31,7 @@ const Kristian😎= {
     pronouns: "He" | "Him",
     location: "Chicago, Illinois",
     code: [JavaScript, HTML, CSS,],
-    tools: [React, Axios, Yup, Cypress, JSX, Git,],
+    tools: [React, Redux, Axios, Yup, Cypress, JSX, Git,],
     askMeAbout: ["webDev", "guitars", "tech", "computers", "gaming", "basically any sport (excluding hockey)" ],
     hobbies: ["musicProduction", "snowBoarding", "guitarist", "workingOut"]
     }
