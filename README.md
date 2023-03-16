@@ -33,7 +33,7 @@ const Kristian😎= {
     code: [JavaScript, HTML, CSS],
     tools: [React, Redux, Axios, Yup, Cypress, JSX, Git, Jest, Hooks, Context API],
     askMeAbout: ["webDev", "guitars", "tech", "computers", "gaming", "basically any sport (excluding hockey)" ],
-    hobbies: ["musicProduction", "snowBoarding", "guitarist", "workingOut", gaming]
+    hobbies: ["musicProduction", "snowBoarding", "guitarist", "workingOut", "gaming"]
     }
 ```
 
