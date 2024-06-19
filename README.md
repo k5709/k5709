@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>  
 
-<p >🎇A passionate 20 year old developer taking on the full stack web development world.🎇</p>
+<p >🎇A passionate 21 year old developer taking on the full stack web development world.🎇</p>
 <p a>📙I am currently an alumni from Bloom Institute of Technology!📙</p>
 
 <div id="contact-me">
