@@ -9,7 +9,7 @@
 </div>  
 
 <p >🎇A passionate 21 year old developer taking on the full stack web development world.🎇</p>
-<p a>📙I am currently an alumni from Bloom Institute of Technology!📙</p>
+<p a>📙I am an alumni from Bloom Institute of Technology!📙</p>
 
 <div id="contact-me">
   <h3>Contact me!<h3>
